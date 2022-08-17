@@ -1,0 +1,2 @@
+--First lines of SQL
+SELECT * FROM EMPLOYEES
